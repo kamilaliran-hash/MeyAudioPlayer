@@ -1,0 +1,8 @@
+MeyAudioPlayer (MAP) version 1.0
+Owner / Developer: Kamil
+Copyright (c) 2026 Kamil. All rights reserved.
+
+MeyAudioPlayer plays audio files stored on your own computer.
+Your music is never uploaded anywhere.
+
+This software is provided "as is", without warranty of any kind.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="1024" height="1024">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6a3df0"/><stop offset="1" stop-color="#e0428a"/></linearGradient></defs>
+  <rect x="2" y="2" width="96" height="96" rx="22" fill="url(#g)"/>
+  <path fill="#fff" opacity=".32" d="M38 14 L78 6 L78 46 A9 7 -15 1 1 72 40 L72 18 L44 24 L44 54 A9 7 -15 1 1 38 48 Z"/>
+  <text x="50" y="80" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" font-weight="900" fill="#fff" letter-spacing="1">MAP</text>
+  <circle cx="50" cy="58" r="5.5" fill="#fff"/><rect x="54" y="34" width="3" height="24" fill="#fff"/>
+  <path d="M57 34 q10 4 7 14 q-1 -7 -7 -8 Z" fill="#fff"/>
+  <path d="M22 88 q7 -5 14 0 t14 0 t14 0 t14 0" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" opacity=".85"/>
+</svg>
